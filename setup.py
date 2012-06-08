@@ -30,6 +30,7 @@ setup(name='plonetheme.test',
           'setuptools',
           'plone.app.theming',
           'plone.app.themingplugins',
+          'Products.LinguaPlone',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
